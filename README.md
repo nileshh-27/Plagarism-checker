@@ -39,11 +39,11 @@ With academic and research environments placing increasing importance on origina
 
 ## 🖼️ Screenshots
 
-> 📌 _Replace these placeholders with actual screenshots of the website UI_
 
-- ![Home Page]![image](https://github.com/user-attachments/assets/08eec000-174f-46b6-81dc-cfeb003ae57a)
-- ![Plagiarism Report]![image](https://github.com/user-attachments/assets/49fb54e0-77af-4289-b148-7b31a528a4f0)
-- ![Login Page]![image](https://github.com/user-attachments/assets/fe30606a-ac7c-469f-a068-f39ba08eee14)
+
+- [Home Page]![image](https://github.com/user-attachments/assets/08eec000-174f-46b6-81dc-cfeb003ae57a)
+- [Plagiarism Report]![image](https://github.com/user-attachments/assets/49fb54e0-77af-4289-b148-7b31a528a4f0)
+- [Login Page]![image](https://github.com/user-attachments/assets/fe30606a-ac7c-469f-a068-f39ba08eee14)
 
 
 ---
