@@ -77,10 +77,10 @@ With academic and research environments placing increasing importance on origina
 
 | Name       | GitHub Profile                          |
 |------------|------------------------------------------|
-| Saimanvitha Chevuru | https://github.com/saimanvitha-11(https://github.com/saimanvitha-11) |
-| Nilesh Reddy | https://github.com/nileshh-27(https://github.com/nileshh-27) |
-| PVN Ruthwik | https://github.com/Ruthwik-PVN-1208(https://github.com/Ruthwik-PVN-1208) |
-| Ravi Ratna | https://github.com/Ravi-Ratna-66(https://github.com/Ravi-Ratna-66) |
+| Saimanvitha Chevuru | https://github.com/saimanvitha-11 |
+| Nilesh Reddy | https://github.com/nileshh-27 |
+| PVN Ruthwik | https://github.com/Ruthwik-PVN-1208 |
+| Ravi Ratna | https://github.com/Ravi-Ratna-66 |
 
 
 ---
