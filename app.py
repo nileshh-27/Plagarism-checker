@@ -10,8 +10,8 @@ from PIL import Image
 app = Flask(__name__)
 
 # Add your actual API keys here
-API_KEY = 'AIzaSyCt9CXCIeY5Fiun35NX5ODpcY13F53Kwt0'
-CSE_ID = '14e70b8467fd9456f'
+API_KEY = 'your api key'
+CSE_ID = 'your cse key'
 
 # Your helper functions
 def google_search(query):
